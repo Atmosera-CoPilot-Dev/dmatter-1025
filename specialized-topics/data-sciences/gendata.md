@@ -4,7 +4,7 @@ Functionality:
 - Generate a set of data points (x, f(x)) where f(x) is a non-linear function with excessive random noise.
 - Plot the generated data points using a scatter plot.
 
-Follow these steps to implement the required functionality:
+Follow these steps in sequence one at a time to implement the required functionality. At each step perform only the single listed action. Do not add code unless explicitly requested. If unclear, ask for clarification.
 
 1)
 Add required NuGet packages:
