@@ -4,9 +4,9 @@ git add .
 
 git commit -m "Synchronized changes"
 
-git pull
+git pull origin main
 
-git push 
+git push  origin main
 
 
 
